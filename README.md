@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thenamanush
+- 👋 Hi, I’m Noman
 - 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning data structure and algorithm and problem solving
 - 💞️ I’m looking to collaborate on any project with c++ as i know a little bit of this language.
